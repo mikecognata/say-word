@@ -1,0 +1,15 @@
+body{
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 1rem;
+}
+
+#text, .output {
+    width: 90%;
+    height: 40vh;
+}
+
+
+.output {
+    border: 1px solid black;
+}
